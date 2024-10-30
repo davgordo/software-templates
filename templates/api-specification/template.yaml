@@ -44,12 +44,12 @@ spec:
           title: Mock Provider URL
           type: string
           description: Microcks Host
-          default: https://microcks-microcks.apps.cluster-ldvg8.ldvg8.sandbox2768.opentlc.com
+          default: https://microcks-microcks.apps.cluster-p28j5.p28j5.sandbox1687.opentlc.com
         service_registry_provider_url:
           title: Service Registry Provider URL
           type: string
           description: Apicurio Registry Host
-          default: https://registry-apicurio-registry.apps.cluster-ldvg8.ldvg8.sandbox2768.opentlc.com
+          default: https://registry-apicurio-registry.apps.cluster-p28j5.p28j5.sandbox1687.opentlc.com
         group_id:
           title: Apicurio Registry Group ID
           type: string

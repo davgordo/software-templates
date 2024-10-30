@@ -77,7 +77,7 @@ spec:
           title: Service Registry Provider URL
           type: string
           description: Apicurio Registry Host
-          default: https://registry-apicurio-registry.apps.cluster-ldvg8.ldvg8.sandbox2768.opentlc.com
+          default: https://registry-apicurio-registry.apps.cluster-p28j5.p28j5.sandbox1687.opentlc.com
         service_registry_group_id:
           title: Service Registry Group ID
           type: string
