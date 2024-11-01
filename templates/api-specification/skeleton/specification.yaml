@@ -3,7 +3,7 @@ info:
   title: ${{ values.api_id }}
   description: |-
     ${{ values.description }}
-  version: 1
+  version: '1'
 servers:
   - url: "http://localhost:8080"
   - url: "${{ values.mock_provider_url }}/rest/${{ values.api_id }}/1"
